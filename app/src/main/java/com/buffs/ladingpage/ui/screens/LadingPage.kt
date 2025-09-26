@@ -28,7 +28,7 @@ import com.buffs.ladingpage.ui.components.Titulo
 fun TelaLadingPage() {
 
     val primeiraSessao = Paragrafo(
-        paragrafo = "Buffs é uma plataforma de controle e acompanhamento da produção leiteira e do manejo de búfalas. O objetivo é oferecer um controle mais preciso dos dados zootécnicos, sanitários e reprodutivos dos animais, assim como da produção de leite, incluindo médias semanais, mensais e anuais do rebanho. Além disso, auxilia o proprietário na gestão da produção e na tomada de decisões estratégicas sobre sua propriedade."
+        paragrafo = "Buffs oferece uma solução multiplataforma (web e mobile) para otimizar a gestão do manejo de búfalas em propriedades leiteiras. A plataforma permite o registro individual dos animais, controle de movimentação entre lotes, monitoramento da produção de leite, controle da reprodução e acompanhamento das informações zootécnicas e sanitárias. Assim, auxilia o criador a tomar decisões mais eficientes para aumentar a produtividade e a rentabilidade do rebanho."
     )
 
     val odsList = listOf(
@@ -65,7 +65,7 @@ fun TelaLadingPage() {
         Membros("Vinicius Souza Ramos", "Dev Mobile"),
         Membros("João Barreto", "Dev Back End"),
         Membros("João Lima", "Dev Front-End"),
-        Membros("Paulo Cesar", "Front-End"),
+        Membros("Paulo Cesar", "Dev Front-End"),
         Membros("Gabriel Guimarães", "Dev IA")
     )
 
